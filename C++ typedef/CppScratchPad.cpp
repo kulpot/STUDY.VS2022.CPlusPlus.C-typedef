@@ -11,8 +11,8 @@ using namespace std;
 
 void main()
 {
-	float myFloat = 6;			// float 32bits
-	double myDouble = 6;		// double 64bits
+	float myFloat = 6;			// float 32bits		// FLOAT32 - explicit
+	double myDouble = 6;		// double 64bits	//	FLOAT64 - explicit
 }
 
 
