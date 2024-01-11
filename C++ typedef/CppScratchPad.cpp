@@ -11,7 +11,8 @@ using namespace std;
 
 void main()
 {
-
+	float myFloat = 6;
+	double myDouble = 6;
 }
 
 
