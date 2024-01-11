@@ -9,7 +9,10 @@ using namespace std;
 // -------------------- C++ typedef ----------------------------------
 //ref link:https://www.youtube.com/watch?v=lrDK6aZddUo&list=PLRwVmtr-pp05LyV3bYHwrFacNSNjbUqS6&index=25
 
+void main()
+{
 
+}
 
 
 
